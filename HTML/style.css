@@ -1,0 +1,15 @@
+body
+{
+	text-align: center;
+	background-color: grey;
+}
+
+.thumbnail div
+{
+	display: none;
+}
+
+.thumbnail div:target
+{
+	display: block;
+}
